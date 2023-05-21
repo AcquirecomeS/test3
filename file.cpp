@@ -17,6 +17,6 @@ int main(){
     add a;
     a.get();
     a.put();
-
+    cout<<"jnjrnirrru";
     return 0;
 }
